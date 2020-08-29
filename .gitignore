@@ -1,0 +1,5 @@
+.internal
+deleter.build
+deleter.dist
+.idea
+venv
